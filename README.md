@@ -19,4 +19,4 @@ DISCORD-WEBHOOK='O teu webhook aqui!'
 - 6: Tem em conta de que o ficheiro salad.py tem que estar na mesma pasta que o .env
 - 7: Dá restart
 
-Qualquer coisa manda me DM: ySnock#6666
+Qualquer coisa manda-me DM: ySnock#6666
