@@ -1,0 +1,72 @@
+{
+  "custom_colors": {
+    "ITALIC": "\u001b[3m",
+    "PURPLE": "\u001b[35m",
+    "YELLOW": "\u001b[1;33m",
+    "comment/colors": "use ansi colors!!!"
+  },
+  "custom_text": {
+    "Available GPUs for mining:": [
+      "default_colors.OKBLUE",
+      "default_colors.BOLD"
+    ],
+    "Eth speed:": [
+      "custom_colors.PURPLE",
+      "default_colors.BOLD",
+      "default_colors.UNDERLINE"
+    ],
+    "speed": [
+      "custom_colors.PURPLE",
+      "default_colors.BOLD",
+      "default_colors.UNDERLINE"
+    ],
+    "Checking": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "Closing": ["default_colors.FAIL", "default_colors.BOLD"],
+    "ETH share found!": ["default_colors.OKGREEN", "default_colors.BOLD"],
+    "GPU": ["custom_colors.PURPLE", "default_colors.BOLD"],
+    "Maximizing": ["default_colors.FAIL", "default_colors.BOLD"],
+    "Minimizing": ["default_colors.FAIL", "default_colors.BOLD"],
+    "Path": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "Received message": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "Running Salad": [
+      "default_colors.OKGREEN",
+      "default_colors.BOLD",
+      "default_colors.UNDERLINE"
+    ],
+    "Starting": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "Stopping": ["default_colors.FAIL", "default_colors.BOLD"],
+    "Update": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "Update not available.": ["default_colors.FAIL", "default_colors.BOLD"],
+    "accepted": [
+      "default_colors.OKGREEN",
+      "default_colors.BOLD",
+      "default_colors.UNDERLINE"
+    ],
+    "checkForUpdatesAndNotify": [
+      "default_colors.OKBLUE",
+      "default_colors.BOLD"
+    ],
+    "checking": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "close": ["default_colors.FAIL", "default_colors.BOLD"],
+    "close-window": ["default_colors.FAIL", "default_colors.BOLD"],
+    "console": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "cuda": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "detected": ["default_colors.OKBLUE", "custom_colors.YELLOW"],
+    "exit": ["default_colors.FAIL", "default_colors.BOLD"],
+    "incorrect": ["default_colors.FAIL", "default_colors.BOLD"],
+    "kill": ["default_colors.FAIL", "default_colors.BOLD"],
+    "quit": ["default_colors.FAIL", "default_colors.BOLD"],
+    "ready": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "share": ["default_colors.OKBLUE", "default_colors.BOLD"],
+    "stop": ["default_colors.FAIL", "default_colors.BOLD"]
+  },
+  "settings": {
+    "/comment/console": "hold E to open console-ish thing to control logs",
+    "balance_notification_every": 1,
+    "comment/notification": "without enable_salad_balance this is useless",
+    "comment/salad balance": ".env file is required to use this",
+    "console_enabled": true,
+    "enable_salad_balance_tracker": true,
+    "window_title": "Salad live logs..."
+  }
+}
