@@ -1,7 +1,7 @@
 # Salad Discord Webhook
 
 
- Modificado a partir daqui: [Github.com/Walker21390/SaladLogViewer---Original](https://github.com/Walker21390/SaladLogViewer---Original)
+ Modificado por mim a partir daqui: [Github.com/Walker21390/SaladLogViewer---Original](https://github.com/Walker21390/SaladLogViewer---Original)
 
 # Como usar o app:
 - 1: Vai a este site: app.salad.io
